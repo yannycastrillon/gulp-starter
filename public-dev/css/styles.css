@@ -1,0 +1,14 @@
+.some-class {
+	font-size: 12px;
+	padding-bottom: 10px;
+}
+
+#some-id {
+	font-style: italic;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#nav{
+	border-radius: 2px;
+}
